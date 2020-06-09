@@ -1,7 +1,8 @@
 body {
-	background: url(../img/image.JPG) no-repeat center fixed;
+	background: url('../img/image.jpg') no-repeat center fixed;
   	background-size: cover;
   	color: #e0dcdc;
+    font-family: 'Open Sans', sans-serif;
 }
 
 div.body-color {
