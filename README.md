@@ -11,7 +11,7 @@ A simple Login/Register Page
 
 # Resources
 <ul>
-    <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
-    <li><a href="https://fontawesome.com/">Font Awesome</a></li>
-    <li><a href="https://unsplash.com/photos/5fNmWej4tAA">Unsplash</a></li>
+    <li><a href="https://getbootstrap.com/" target="_blank">Bootstrap</a></li>
+    <li><a href="https://fontawesome.com/" target="_blank">Font Awesome</a></li>
+    <li><a href="https://unsplash.com/photos/5fNmWej4tAA" target="_blank">Unsplash</a></li>
 </ul>
