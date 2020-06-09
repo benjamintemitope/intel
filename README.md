@@ -1,7 +1,7 @@
 # intel
 <img src="img/logo.png" width="150" height="150">
 A simple Login/Register Page
-
+<a href="https://benjamintemitope.github.io/intel/">https://benjamintemitope.github.io/intel/</a>
 # Pages
 <ul>
     <li><a href="index.html">Login</a></li>
