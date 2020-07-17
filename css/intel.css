@@ -2,6 +2,7 @@ body {
 	background: url('../img/image.jpg') no-repeat center fixed;
   	background-size: cover;
   	color: #e0dcdc;
+        position: fixed;
         font-family: 'Open Sans', sans-serif;
 }
 
