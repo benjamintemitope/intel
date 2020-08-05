@@ -6,6 +6,21 @@ $(document).ready(function(){
         $(this).parent(".input-group").removeClass("input-group-focus")
     });
 
+    $('.input-group-append').click(function() {
+        $(this).prev('input').toggleClass('password')
+        
+        //For Toggle Attribute
+        if ($(this).prev("input").attr("type") === 'password') {
+            $(this).prev('input').attr('type', 'text')
+        }else {
+            $(this).prev('input').attr('type', 'password')
+        }
+
+        $(this).find(".fa-eye").toggleClass('fa-eye-slash')
+        //$(this).next('').prop('content', '\f070');
+        //$(":password").attr("type", "text")
+    });
+
 
     // Example starter JavaScript for disabling form submissions if there are invalid fields
 	(function() {
